@@ -7,7 +7,7 @@ section{width:100%;display:flex;justify-content:right;padding:10px;}
   * {
     scroll-behavior: smooth;
   }
-}#navbar {display:block;flex-direction:row;flex-wrap:wrap;gap:16px;
+}#navbar {display:flex;flex-direction:row;flex-wrap:wrap;gap:16px;
   position: fixed;
   top: 0;
   left: 0;

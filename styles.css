@@ -14,8 +14,7 @@ section{width:100%;display:flex;justify-content:right;padding:10px;}
   width: 150px;
   height: 100%;
   z-index: 999;
-;
   overflow-x: hidden;
   padding-top: 10px;
 }
-main{width:800px;top:100px;left:100px;padding-left:150px;position:relative;left:200px;}
+main{width:800px;top:100px;left:100px;padding-left:150px;position:absolute;left:200px;}
